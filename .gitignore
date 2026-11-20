@@ -1,0 +1,5 @@
+stock_monitor_ui.json
+stock_history.json
+live_stock_levels.json
+__pycache__/
+*.pyc
